@@ -1,0 +1,7 @@
+role_def = "Storage Blob Data Reader"
+dataset_name = "data-etl-poc-lake-dataset-001"
+data_share_account_name = "data-etl-poc-lake-data-share-account-001"
+data_share_account_identity = "SystemAssigned"
+data_share_name = "data_etl_poc_lake_data_share_001"
+data_share_kind = "CopyBased"
+data_share_file_path = "./data/dummy_logs.csv"
